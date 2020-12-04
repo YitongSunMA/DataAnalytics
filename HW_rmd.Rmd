@@ -1,0 +1,125 @@
+---
+title: "Yitong Sun"
+author: Yitong Sun
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>yitong.sun@tufts.edu
+- <i class="fa fa-github"></i> [github.com/YitongSunMA/](https://github.com/YitongSunMA/)
+- <i class="fa fa-phone"></i> +1 518-364-7097
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- List your **key skills**, linked to the job description.
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Experienced deploying and managing deviced in Microsoft Azure
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Yitong Sun {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS in Data Analysis
+
+Medford, MA
+
+2019--2021
+
+
+### Undergraduate University
+
+B.A. in Statistics
+
+Buffalo, NY
+
+2015--2019
+
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Executive's Assistant
+
+Waysun Inc.
+
+Orlando, FL
+
+2018--2019
+
+- Create and implement Client Management Excel Project using Macro    VBA function for the executive to use
+  which results in an increased efficiency in organizing client       records.
+- Contribute to ongoing projects by analyzing companies’ financial    condition, conducting background investigation
+  and constructing feasible reports. 
+
+
+### Premier Support Engineer
+
+Zones Nfrastructure
+
+Menands, NY
+
+2019--2020
+
+- Test, preclude and resolve technical issues such as service         degradation, security compromises and take preventative
+  procedures for governmental agencies and strategic customers on a   daily basis.
+- Cooperate with the Microsoft Product Group on isolating and fixing   potential and ongoing bugs and service
+  degradation, and help rolling out new feature – Conditional Access   for macOS.
+
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-201 Individual Project
+Presented data visualization for Youtube trending video statistics, and summarized main results and assumptions of the data visualization to my cohort. 
+
+Medford, MA
+
+November 2020
+
+
