@@ -1,0 +1,94 @@
+---
+title: "Yitong Sun"
+author: Yitong Sun
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>yitong.sun@tufts.edu
+- <i class="fa fa-github"></i> [github.com/yitongsun/](https://github.com/YitongSunMA/)
+- <i class="fa fa-phone"></i> +1 518-364-7097
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- List your **key skills**, linked to the job description.
+
+- Performing **data analysis**, with a focus on regression models
+
+- Experienced in **data communication** and client relations
+
+- **Machine Learning** on cloud platforms (Azure)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Yitong Sun {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS in Data Analysis
+
+Medford, MA
+
+2019--Current
+
+
+### Undergraduate University
+
+B.A. in Statistics
+
+Buffalo, NY 
+
+2015--2019
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-201 Final Project
+Presented a model for Youtube trending videos detection, and summarized main results and assumptions of the model to my cohort. 
+
+Medford, MA
+
+November 2020
+
+
